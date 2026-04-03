@@ -1,6 +1,23 @@
 # 💫 About Me:
 🛠️ I’m currently working on — Leading end-to-end AI/ML platform initiatives; designing MLOps pipelines and production services that scale; improving developer experience and CI/CD for data teams.<br><br>👯 I’m looking to collaborate on — Open-source tooling, cross-functional AI projects, and developer productivity efforts that bridge research and production.<br><br>🤔 I’m looking for help with — Scaling model deployment, observability for ML systems, and integrating privacy-preserving techniques into pipelines.<br><br>🌱 I’m currently learning — Advanced model optimization, distributed training patterns, and the latest in LLM engineering and prompt engineering.<br><br>💬 Ask me about — System design for ML, mentoring engineers, building resilient data platforms, and practical MLOps patterns.<br><br>⚡ Fun fact — I enjoy turning complex problems into simple, repeatable systems and mentoring engineers to do the same.
 
+# Current Project:
+****
+https://github.com/SudipEnter/the-young-adult-afs
+
+https://github.com/SudipEnter/AyurVani
+
+https://github.com/SudipEnter/SkillForge-AI
+
+https://github.com/SudipEnter/ultimate-multilingual-mandi-ai
+
+https://github.com/SudipEnter/ai-sentinel-autonomous
+
+https://github.com/SudipEnter/AI-Powered-Governance-Transforming-Citizen-Service-Delivery
+
+https://github.com/SudipEnter/AI-ML-Data-analytics-project
+
+https://github.com/SudipEnter/storygen-learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudip-majumder-lead) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TagSudip) 
