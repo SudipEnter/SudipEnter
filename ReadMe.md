@@ -19,11 +19,16 @@ https://github.com/SudipEnter/AI-ML-Data-analytics-project
 
 https://github.com/SudipEnter/storygen-learning
 
+🚀 Featured Project: Building no-code-cashflow, a platform for Indian MSMEs that converts receipts, bank PDFs, and open economic data into 30/60/90-day forecasts. Utilizes the Model Context Protocol (MCP) to seamlessly integrate LLMs with external financial data sources and automated agentic workflows.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudip-majumder-lead) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TagSudip) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+AI & Machine Learning: Python, prompt engineering, agentic/multi-agent workflows, Model Context Protocol (MCP), and model frameworks.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gennext-ship-it&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gennext-ship-it&theme=dark&hide_border=false)<br/>
