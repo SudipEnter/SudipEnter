@@ -1,6 +1,6 @@
 # 💫 About Me:
 🛠️ I’m currently working on — Leading end-to-end AI/ML platform initiatives; designing MLOps pipelines and production services that scale; improving developer experience and CI/CD for data teams.<br><br>👯 I’m looking to collaborate on — Open-source tooling, cross-functional AI projects, and developer productivity efforts that bridge research and production.<br><br>🤔 I’m looking for help with — Scaling model deployment, observability for ML systems, and integrating privacy-preserving techniques into pipelines.<br><br>🌱 I’m currently learning — Advanced model optimization, distributed training patterns, and the latest in LLM engineering and prompt engineering.<br><br>💬 Ask me about — System design for ML, mentoring engineers, building resilient data platforms, and practical MLOps patterns.<br><br>⚡ Fun fact — I enjoy turning complex problems into simple, repeatable systems and mentoring engineers to do the same.
-
+# Live Demo : https://youtu.be/3gYP-xpniBQ
 # Current Project:
 ****
 https://github.com/SudipEnter/no-code-cashflow
